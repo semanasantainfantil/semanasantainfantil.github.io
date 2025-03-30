@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.home-link {
+    display: block;
+    margin-bottom: 20px;
+}
+
+.home-image {
+    width: 150px;
+    height: 150px;
+}
+
+.image {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
