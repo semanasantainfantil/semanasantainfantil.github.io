@@ -27,5 +27,30 @@ h1 {
 }
 
 .button:hover {
-    background-color: #0056b3;
+    background-color: #00b3aa;
+}
+
+.image {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+footer {
+    margin-top: 35px;
+}
+
+.social-icons a {
+    margin: 0 10px;
+}
+
+.social-icons img {
+    width: 40px;
+    height: 40px;
+}
+
+.button:active {
+    background-color: #940000;
 }
